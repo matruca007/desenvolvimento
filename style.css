@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://i.postimg.cc/VLCtHWNy/depositphotos-3992004-stock-photo-old-room.webp);
+  background-repeat: no-repeat;
+    background-size: cover;
+  }
+.header > h1 {
+  font-size: 40px;
+  
+}
+a {
+  color : white
+ 
+  
+}
+input{
+  padding: 3px
+}
+ul{
+  color:	#ADD8E6	;
+  
+}
+.negrito{
+  color: #F0F8FF	
+}
+#frase{
+  color: #00FFFF;
+  font-size : 22px
+}
